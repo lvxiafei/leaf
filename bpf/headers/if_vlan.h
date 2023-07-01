@@ -1,0 +1,1 @@
+#define skb_vlan_tag_get(__skb)		((__skb)->vlan_tci)

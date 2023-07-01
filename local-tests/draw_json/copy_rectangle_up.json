@@ -1,0 +1,44 @@
+{
+  "type":"excalidraw/clipboard",
+  "elements":[
+    {
+      "type":"rectangle",
+      "version":198,
+      "versionNonce":1565036543,
+      "isDeleted":false,
+      "id":"rectangle-head",
+      "fillStyle":"hachure",
+      "strokeWidth":1,
+      "strokeStyle":"solid",
+      "roughness":1,
+      "opacity":100,
+      "angle":0,
+      "x":0,
+      "y":0,
+      "strokeColor":"#1e1e1e",
+      "backgroundColor":"transparent",
+      "width":200,
+      "height":70,
+      "seed":2053740462,
+      "groupIds":[
+
+      ],
+      "frameId":null,
+      "roundness":{
+        "type":3
+      },
+      "boundElements":[
+        {
+          "id":"text-head",
+          "type":"text"
+        }
+      ],
+      "updated":1700282234125,
+      "link":null,
+      "locked":false
+    }
+  ],
+  "files":{
+
+  }
+}

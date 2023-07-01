@@ -1,0 +1,16 @@
+#cloud-config
+
+runcmd:
+  # base tools
+  - sudo apt update -y
+  - sudo apt install net-tools
+  - sudo curl https://getcroc.schollz.com | bash
+
+  # dev
+  - sudo snap install go --classic
+  - sudo apt install llvm
+  - sudo apt install clang
+  - apt install bpftrace
+
+
+final_message: "The system is finally up, after $UPTIME seconds"

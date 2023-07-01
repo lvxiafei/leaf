@@ -1,0 +1,56 @@
+{
+  "type":"excalidraw/clipboard",
+  "elements":[
+    {
+      "type":"arrow",
+      "version":1040,
+      "versionNonce":1299842274,
+      "isDeleted":false,
+      "id":"g7o75MbWpgsDbQLjpgk66",
+      "fillStyle":"hachure",
+      "strokeWidth":1,
+      "strokeStyle":"dashed",
+      "roughness":1,
+      "opacity":100,
+      "angle":0,
+      "x":16102.980985466482,
+      "y":3228.8949502208006,
+      "strokeColor":"#1e1e1e",
+      "backgroundColor":"transparent",
+      "width":1.747961340488473,
+      "height":234.6094961226854,
+      "seed":792328958,
+      "groupIds":[
+
+      ],
+      "frameId":null,
+      "roundness":{
+        "type":2
+      },
+      "boundElements":[
+
+      ],
+      "updated":1701221393371,
+      "link":null,
+      "locked":false,
+      "startBinding":null,
+      "endBinding":null,
+      "lastCommittedPoint":null,
+      "startArrowhead":"arrow",
+      "endArrowhead":null,
+      "points":[
+        [
+          0,
+          0
+        ],
+        [
+          -1.747961340488473,
+          -234.6094961226854
+        ]
+      ]
+    }
+  ],
+  "files":{
+
+  }
+}

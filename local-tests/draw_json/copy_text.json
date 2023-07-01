@@ -1,0 +1,50 @@
+{
+  "type":"excalidraw/clipboard",
+  "elements":[
+    {
+      "type":"text",
+      "version":282,
+      "versionNonce":435809785,
+      "isDeleted":false,
+      "id":"EangBiyJPCLBz1NapA-U_",
+      "fillStyle":"hachure",
+      "strokeWidth":1,
+      "strokeStyle":"solid",
+      "roughness":1,
+      "opacity":100,
+      "angle":0,
+      "x":-2314.375,
+      "y":-231.625,
+      "strokeColor":"#1e1e1e",
+      "backgroundColor":"transparent",
+      "width":2800.78125,
+      "height":168,
+      "seed":1071265721,
+      "groupIds":[
+
+      ],
+      "frameId":null,
+      "roundness":{
+
+      },
+      "boundElements":[
+
+      ],
+      "updated":1700287369074,
+      "link":null,
+      "locked":false,
+      "fontSize":20,
+      "fontFamily":3,
+      "text":"TIME       SKB                  NETWORK_NS   PID      CPU    INTERFACE          DEST_MAC           IP_LEN PKT_INFO                                               IPTABLES_INFO\n[00:00:56] [0xffff95398a31a200] [4026531840] 2347     0      nil                61:6e:37:38:78:78  84     I_request:10.0.2.15->8.8.8.8                           pkt_type=HOST iptables=[pf=PF_INET, table=nat hook=OUTPUT verdict=ACCEPT]\n[00:00:56] [0xffff95398a31a200] [4026531840] 2347     0      nil                61:6e:37:38:78:78  84     I_request:10.0.2.15->8.8.8.8                           pkt_type=HOST iptables=[pf=PF_INET, table=filter hook=OUTPUT verdict=ACCEPT]\n[00:00:56] [0xffff95398a31a200] [4026531840] 2347     0      enp0s3             61:6e:37:38:78:78  84     I_request:10.0.2.15->8.8.8.8                           pkt_type=HOST iptables=[pf=PF_INET, table=nat hook=POSTROUTING verdict=ACCEPT]\n[00:00:56] [0xffff953990ac5500] [4026531840] 0        3      enp0s3             08:00:27:ff:1e:ab  84     I_reply:8.8.8.8->10.0.2.15                             pkt_type=HOST iptables=[pf=PF_INET, table=filter hook=INPUT verdict=ACCEPT]\n[00:00:57] [0xffff95398a31ac00] [4026531840] 2347     0      nil                00:00:00:00:00:00  84     I_request:10.0.2.15->8.8.8.8                           pkt_type=HOST iptables=[pf=PF_INET, table=filter hook=OUTPUT verdict=ACCEPT]\n[00:00:57] [0xffff953990ac5100] [4026531840] 0        3      enp0s3             08:00:27:ff:1e:ab  84     I_reply:8.8.8.8->10.0.2.15                             pkt_type=HOST iptables=[pf=PF_INET, table=filter hook=INPUT verdict=ACCEPT]",
+      "textAlign":"left",
+      "verticalAlign":"top",
+      "containerId":null,
+      "originalText":"TIME       SKB                  NETWORK_NS   PID      CPU    INTERFACE          DEST_MAC           IP_LEN PKT_INFO                                               IPTABLES_INFO\n[00:00:56] [0xffff95398a31a200] [4026531840] 2347     0      nil                61:6e:37:38:78:78  84     I_request:10.0.2.15->8.8.8.8                           pkt_type=HOST iptables=[pf=PF_INET, table=nat hook=OUTPUT verdict=ACCEPT]\n[00:00:56] [0xffff95398a31a200] [4026531840] 2347     0      nil                61:6e:37:38:78:78  84     I_request:10.0.2.15->8.8.8.8                           pkt_type=HOST iptables=[pf=PF_INET, table=filter hook=OUTPUT verdict=ACCEPT]\n[00:00:56] [0xffff95398a31a200] [4026531840] 2347     0      enp0s3             61:6e:37:38:78:78  84     I_request:10.0.2.15->8.8.8.8                           pkt_type=HOST iptables=[pf=PF_INET, table=nat hook=POSTROUTING verdict=ACCEPT]\n[00:00:56] [0xffff953990ac5500] [4026531840] 0        3      enp0s3             08:00:27:ff:1e:ab  84     I_reply:8.8.8.8->10.0.2.15                             pkt_type=HOST iptables=[pf=PF_INET, table=filter hook=INPUT verdict=ACCEPT]\n[00:00:57] [0xffff95398a31ac00] [4026531840] 2347     0      nil                00:00:00:00:00:00  84     I_request:10.0.2.15->8.8.8.8                           pkt_type=HOST iptables=[pf=PF_INET, table=filter hook=OUTPUT verdict=ACCEPT]\n[00:00:57] [0xffff953990ac5100] [4026531840] 0        3      enp0s3             08:00:27:ff:1e:ab  84     I_reply:8.8.8.8->10.0.2.15                             pkt_type=HOST iptables=[pf=PF_INET, table=filter hook=INPUT verdict=ACCEPT]",
+      "lineHeight":1.2,
+      "baseline":163
+    }
+  ],
+  "files":{
+
+  }
+}
