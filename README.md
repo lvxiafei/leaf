@@ -2,6 +2,7 @@
 
 network design and self-check through leaf
 
+![](logo.png)
 ## Build and run
 ```bash
 # git clone https://github.com/linuxkerneltravel/leaf.git
