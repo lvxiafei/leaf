@@ -665,3 +665,7 @@ int BPF_KPROBE(k_macvlan_broadcast_enqueue)
 
 // tcp
 //int tcp_sendmsg(struct sock *sk, struct msghdr *msg, size_t size);
+
+
+// ipsec
+//int xfrm4_output(struct net *net, struct sock *sk, struct sk_buff *skb);
