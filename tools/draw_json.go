@@ -68,7 +68,7 @@ func (j *JSONData) OpenToAppend(src string) {
 func (j *JSONData) OpenSceneHookFsToAppend(fs embed.FS, src string) {
 
 	var extraJsonData JSONData
-	file, err := fs.ReadFile("scene_hook/" + src)
+	file, err := fs.ReadFile("scene-hook/" + src)
 	if err != nil {
 		log.Fatalf("Some error occured while reading file. Error: %s", err)
 	}
